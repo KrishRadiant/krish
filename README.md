@@ -7,14 +7,11 @@ Php
 	<div style="background: #D4D4D4; border-radius: 5px 5px 0px 0px; padding: 15px;"><span style="font-family: verdana,arial; color: #D4D4D4; font-size: 1.00em; font-weight:bold;">REGISTRARSE</span></div>
 	<div style="background: ; padding: 15px">
 	<style type="text/css" scoped>
-	
-	hareesh
-	
-	hareesh
-	
-	dssdjlfsdl
-	
-	
+
+
+haaddadmnadb
+
+
 	td { text-align:left; font-family: verdana,arial; color: #000000; font-size: 1.00em; }
 	input { border: 1px solid #CCCCCC; border-radius: 5px; color: #666666; display: inline-block; font-size: 1.00em;  padding: 5px; width: 100%; }
 	input[type="button"], input[type="reset"], input[type="submit"] { height: auto; width: auto; cursor: pointer; box-shadow: 0px 0px 5px #D4D4D4; float: right; margin-top: 10px; }
