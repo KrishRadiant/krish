@@ -36,5 +36,7 @@ Php
 <tr><td colspan=2>Olvidó su nombre de usuario o contraseña? Find it <a href="https://www.authpro.com/auth/deluxe/?action=lost">here</a>!</td></tr>
 <tr><td colspan=2>Mediante el envío de mis datos personales confirmo que he leído y acepto la Política de privacidad</td></tr>
 </table>
+
+
 </form>
 </div></div></div>
